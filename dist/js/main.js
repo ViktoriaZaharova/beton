@@ -149,8 +149,8 @@ $(document).ready(function(){
     });
 });
 
-$(document).ready(function () {
-	$('.ph').focus( function() {
-		$('.btn-block2 > button > span').html('Отправить');
-	});
-});
+// $(document).ready(function () {
+// 	$('.ph').focus( function() {
+// 		$('.btn-block2 > button > span').html('Отправить');
+// 	});
+// });
